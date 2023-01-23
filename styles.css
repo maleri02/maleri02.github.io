@@ -5,9 +5,9 @@ body {
 }
 
 .sidebar h1 {
-  font-family: "Playfair Display", serif;
+  font-family: "Comic Sans", sans-serif;
   font-size: 350%;
-  color: #d3d3da;
+  color: #70E9FF;
   display: block;
   padding: 16px;
   padding-top: 0;
@@ -21,7 +21,7 @@ body {
 .sidebar h2 {
   font-family: "Playfair Display", serif;
   font-size: 150%;
-  color: #d3d3da;
+  color: #70E9FF;
   display: block;
   padding: 16px;
   margin: 0;
@@ -32,7 +32,7 @@ body {
 
 .sidebar h3{
   font-family: "Playfair Display", serif;
-  color: #d3d3da;
+  color: #70E9FF;
   display: block;
   padding: 16px;
   margin: 0;
@@ -112,7 +112,7 @@ div.content {
 
 /* Sidebar links */
 .sidebar a {
-  font-family: "Playfair Display", serif;
+  font-family: "Comic Sans", sans-serif;
   display: block;
   color: #d3d3da;
   padding: 16px;
