@@ -72,7 +72,7 @@ body {
 }
 
 .content a {
-  color: #4c4a6c;
+  color: #83007F;
   font-weight: 600;
   text-decoration: none;
 }
@@ -104,7 +104,7 @@ div.content {
   margin: 0;
   padding: 0;
   width: 350px;          /* <--- CHANGE US TOGETHER */
-  background-color: #262536;
+  background-color: #70FF99;
   position: fixed;
   height: 100%;
   overflow: auto;
