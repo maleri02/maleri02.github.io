@@ -43,7 +43,10 @@ body {
 #colophon {
   padding-top: 20px;
 }
-
+.content {
+    background-color: aquamarine;
+    
+}
 .content h1 {
   font-family: "Playfair Display", serif;
 }
