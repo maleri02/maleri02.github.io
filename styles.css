@@ -99,7 +99,7 @@ div.content {
   padding-top: 75px;
   padding-left: 25px;
   padding-right: 16px;
-  height: 1000px;
+  height: 10000px;
 }
 
  /* The side navigation menu */
@@ -181,8 +181,8 @@ div.content {
   }
   
   div.content{
-  padding-top: 30px;
-  padding-left: 10px;
-  padding-right: 10px;
+  padding-top: 300px;
+  padding-left: 100px;
+  padding-right: 100px;
   }
 } 
